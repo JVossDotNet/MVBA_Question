@@ -1,0 +1,13 @@
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\MVBA_Exercise.dll
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\MVBA_Exercise.pdb
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\src\MVBA_Exercise\MVBA_Exercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\src\MVBA_Exercise\MVBA_Exercise\obj\Debug\MVBA_Exercise.csproj.CoreCompileInputs.cache
+C:\src\MVBA_Exercise\MVBA_Exercise\obj\Debug\MVBA_Exercise.csproj.CopyComplete
+C:\src\MVBA_Exercise\MVBA_Exercise\obj\Debug\MVBA_Exercise.dll
+C:\src\MVBA_Exercise\MVBA_Exercise\obj\Debug\MVBA_Exercise.pdb
