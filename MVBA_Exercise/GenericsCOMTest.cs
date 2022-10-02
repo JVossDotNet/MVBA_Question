@@ -74,7 +74,7 @@ namespace MVBA_Exercise
                 }
             }
 
-            // our test fails if there are no offender.
+            // our test fails if there are offenders.
             Assert.IsTrue(offenders.Count == 0, stringBuilder.ToString());
 
 
@@ -140,7 +140,7 @@ namespace MVBA_Exercise
                 }
             }
 
-            // our test fails if there are no offender.
+            // our test fails if there are offenders.
             Assert.IsTrue(offenders.Count == 0, stringBuilder.ToString());
 
 
